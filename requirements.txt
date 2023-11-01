@@ -1,0 +1,6 @@
+python-dotenv
+requests
+uvicorn[standard]
+fastapi
+python-multipart
+urllib3==1.26.6
